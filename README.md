@@ -1,7 +1,4 @@
 # Hi, I'm Vadzim 👋
-
-**Aspiring software developer** studying to become a *Technik Programista* at a technical high school (technikum).
-
 I enjoy building things for the web and learning how software works end to end, from the database to the browser.
 
 ### 🛠️ Tech stack
@@ -24,8 +21,7 @@ I enjoy building things for the web and learning how software works end to end, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌱 Right now
-
+**Right now**
 - Studying programming at technikum: web development, databases, object-oriented programming
 - Building my first portfolio projects. First one: my website 👉 **[vadzim-dev.github.io](https://vadzim-dev.github.io)**
 - Looking for an **internship / praktyki** where I can learn from an experienced team
